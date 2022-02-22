@@ -1,6 +1,5 @@
 const createNav = () => {
     let nav = document.querySelector('.navbar');
-
     nav.innerHTML = `
     <div class="nav">
     <img src="img/dark-logo.png" class="brand-logo" alt="">
